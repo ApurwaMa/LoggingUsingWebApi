@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingUsingWebApi", "LoggingUsingWebApi\LoggingUsingWebApi.csproj", "{4D1D0E2D-0F80-486C-A3ED-4BED691FC782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLoggingUsingWebApi", "ClientLoggingUsingWebApi\ClientLoggingUsingWebApi.csproj", "{9C164F41-9753-4379-80C3-02E705A88BEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D1D0E2D-0F80-486C-A3ED-4BED691FC782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1D0E2D-0F80-486C-A3ED-4BED691FC782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1D0E2D-0F80-486C-A3ED-4BED691FC782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1D0E2D-0F80-486C-A3ED-4BED691FC782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C164F41-9753-4379-80C3-02E705A88BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C164F41-9753-4379-80C3-02E705A88BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C164F41-9753-4379-80C3-02E705A88BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C164F41-9753-4379-80C3-02E705A88BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
